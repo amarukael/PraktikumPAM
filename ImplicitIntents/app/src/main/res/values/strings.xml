@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="author">By M. Fahmi Amaruddin (19.11.3008)</string>
+    <string name="open_web">Open Web</string>
+    <string name="open_call">Open Call</string>
+    <string name="open_map">Open Map</string>
+</resources>
